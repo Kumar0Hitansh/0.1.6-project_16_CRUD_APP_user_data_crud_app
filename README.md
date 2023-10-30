@@ -14,7 +14,7 @@ step 4 : now devide two terminal separately  1) for fake json server API  after 
 <br>
                                              2) for client server for react.js after that use following command  to run react local server <br>
 
-                                                                       $ npn start <br> <br><br><br>
+                                                                       $ npn start 
 
 project snapes =================================<br><br>
 
