@@ -1,5 +1,6 @@
 # 0.1.6-project_16_CRUD_APP_user_data_crud_app
 <br> <br>
+<pre>
 User Manual :- 
 <br><br>
 step 1 : download source code  <br>
@@ -15,6 +16,8 @@ step 4 : now devide two terminal separately  1) for fake json server API  after 
                                              2) for client server for react.js after that use following command  to run react local server <br>
 
                                                                        $ npn start 
+
+</pre>
 
 project snapes =================================<br><br>
 
