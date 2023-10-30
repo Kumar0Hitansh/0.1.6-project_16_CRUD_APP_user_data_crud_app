@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "hitansh kr",
+      "email": "hitansh14@gmail.com",
+      "user_name": "hitansh1611189",
+      "Phone": "9079746497",
+      "id": 1
+    },
+    {
+      "name": "aman rn",
+      "email": "aman11@gmail.com",
+      "user_name": "aman666",
+      "Phone": "987654321",
+      "id": 2
+    },
+    {
+      "name": "lakhan",
+      "email": "lakhan77@gmail.com",
+      "user_name": "lakram777",
+      "Phone": "9999998888",
+      "id": 3
+    },
+    {
+      "name": "black",
+      "email": "black@gmail.com",
+      "user_name": "bigblack",
+      "Phone": "9878765432",
+      "id": 4
+    },
+    {
+      "name": "pink",
+      "email": "pink@gmail.com",
+      "user_name": "pinkpink000",
+      "Phone": "0987678765",
+      "id": 5
+    },
+    {
+      "name": "rick ",
+      "email": "rick@example.com",
+      "user_name": "rick888",
+      "Phone": "9897654543",
+      "id": 6
+    }
+  ]
+}
